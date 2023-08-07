@@ -18,3 +18,7 @@ The goal of this project is to create a system using machine learning which prov
 *EDA & Visuals*: This file contains exploratory data analysis of the raw data file with some helpful visualizations of the data we will be working with
 
 *Data Cleaning and Preprocessing*: This file is much more concise than the EDA & Visuals file and only contains the steps taken to ensure the data has been cleaned and prepared as needed so that it is ready to be used in future machine learning algorithms.
+
+*Modeling*: In this file we utilize multiple different regression and classification algorithms for our content-based recommender system.
+
+*Modeling - Clustering*: This file contains K Means clustering. 
