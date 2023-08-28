@@ -1,5 +1,5 @@
 # Wine Recommender System
-**DSCI 591 - Data Science Capstone Project**
+**DSCI 592 - Data Science Capstone Project**
 
 **Drexel University College of Computing and Informatics**
 
@@ -19,6 +19,6 @@ The goal of this project is to create a system using machine learning which prov
 
 *Data Cleaning and Preprocessing*: This file is much more concise than the EDA & Visuals file and only contains the steps taken to ensure the data has been cleaned and prepared as needed so that it is ready to be used in future machine learning algorithms.
 
-*Modeling*: In this file we utilize multiple different regression and classification algorithms for our content-based recommender system.
+*Modeling*: This file contains the modeling and functions used to create different types of recommender systems. Regression and classification algorithms are used for content-based recommender systems. Cosine similarity calculations are used for a content-based recommender system as well as a case-based recommender system. A constraint-based recommender system is also included.
 
 *Modeling - Clustering*: This file contains K Means clustering. 
